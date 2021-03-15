@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ordynets
 - 👀 I’m interested in ... fungal taxonomy, morphometrics, biodiversity informatics
-- 🌱 I’m currently learning ... Git and geometric morphometrics
-- 💞️ I’m looking to collaborate on ... geometric morphometrics in fungi
+- 🌱 I’m currently learning ... Git, geometric morphometrics and ... growing peperoni in my garden
+- 💞️ I’m looking to collaborate on ... geometric morphometrics and genomics in fungi
 - 📫 How to reach me ... @aordynets on Twitter
 
 <!---
